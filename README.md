@@ -68,7 +68,7 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
 ---
 
 ## 🔥 Let's Connect!  
-📜 **Medium Articles:** [Sushant Kumar on Medium](https://medium.com/@caveman9712)  
+📜 **Medium Articles:** [Sushant Kumar on Medium](https://medium.com/@SK9712)  
 🐦 **LinkedIn:** [@sushantkumar_](https://www.linkedin.com/in/sk9712/)  
 📧 **Email:** [susk1297@gmail.com](mailto:susk1297@gmail.com)  
 
