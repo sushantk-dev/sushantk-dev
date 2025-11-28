@@ -49,19 +49,19 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
 ## 🚀 Featured Repositories  
 <p align="left">
   <a href="https://github.com/sushantdevx/detecting-malicious-url-using-character-level-cnn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=detecting-malicious-url-using-character-level-cnn&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=detecting-malicious-url-using-character-level-cnn&theme=radical" />
   </a>
   <a href="https://github.com/sushantdevx/saml2-authentication-service-keycloak">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=saml2-authentication-service-keycloak&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=saml2-authentication-service-keycloak&theme=radical" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/sushantdevx/langgraph4j">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=langgraph4j&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=langgraph4j&theme=radical" />
   </a>
   <a href="https://github.com/sushantdevx/smart-parameter-plugin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=smart-parameter-plugin&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=smart-parameter-plugin&theme=radical" />
   </a>
 </p>
 
@@ -69,9 +69,9 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
 
 ## 🔥 Let's Connect!  
 📜 **Medium Articles:** [Sushant Kumar on Medium](https://medium.com/@sushantdevx)  
-🐦 **LinkedIn:** [@sushantkumar_](https://www.linkedin.com/in/sushantdevx/)  
+🐦 **LinkedIn:** [@sushantdevx](https://www.linkedin.com/in/sushantdevx/)  
 📧 **Email:** [sushantdevx@gmail.com](mailto:sushantdevx@gmail.com)  
 
 ---
 
-🔹 _"Building scalable systems, one commit at a time!"_ 🚀  
+🔹 _"Building scalable systems, one commit at a time!"_ 🚀
