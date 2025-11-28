@@ -33,15 +33,15 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
 
 ## 📈 GitHub Stats (Java-Focused)  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK9712&layout=compact&langs_count=6&theme=radical&hide=css,html,javascript" alt="Most Used Languages (Java-Focused)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantdevx&layout=compact&langs_count=6&theme=radical&hide=css,html,javascript" alt="Most Used Languages (Java-Focused)" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SK9712&show_icons=true&theme=radical&count_private=true&hide=stars,issues" alt="sushantdevx GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantdevx&show_icons=true&theme=radical&count_private=true&hide=stars,issues" alt="sushantdevx GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SK9712&theme=radical" alt="sushantdevx GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantdevx&theme=radical" alt="sushantdevx GitHub Streak" />
 </p>
 
 ---
