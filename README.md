@@ -34,8 +34,8 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
 
 ## 🔥 Let's Connect!  
 📜 **Medium Articles:** [Sushant Kumar on Medium](https://medium.com/@sushantk.dev)  
-🐦 **LinkedIn:** [@sushantdevx](https://www.linkedin.com/in/sushantk-dev/)  
-📧 **Email:** [sushantdevx@gmail.com](mailto:sushantk.connect@gmail.com)  
+🐦 **LinkedIn:** [@sushantk-dev](https://www.linkedin.com/in/sushantk-dev/)  
+📧 **Email:** [sushantk.connect@gmail.com](mailto:sushantk.connect@gmail.com)  
 
 ---
 
