@@ -1,6 +1,6 @@
 # 🚀 Hey, I'm Sushant Kumar! 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushantdevx/)](https://www.linkedin.com/in/sushantdevx/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushantk-dev/)](https://www.linkedin.com/in/sushantk-dev/)
 
 ## 💡 About Me  
 I am a **Full-Stack Java Developer** passionate about **system design, security, databases, and AI-driven solutions**.  
